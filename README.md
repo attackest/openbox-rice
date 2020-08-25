@@ -10,4 +10,4 @@
 
 **Window theme**: Cotton
 
-![Screenshot](https://imgur.com/a/DYzmplc)
+[Screenshot](https://imgur.com/a/DYzmplc)
