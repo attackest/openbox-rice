@@ -10,4 +10,4 @@
 
 **Window theme**: Cotton
 
-[Screenshot](https://imgur.com/a/DYzmplc)
+![Screenshot](2020-08-22_16-12.png)
