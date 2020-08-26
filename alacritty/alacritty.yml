@@ -1,0 +1,66 @@
+# theme
+
+draw_bold_text_with_bright_colors: true
+
+colors:
+
+  primary:
+    background: '#282a36'
+    foreground: '#eff0eb'
+
+  cursor:
+    cursor: '#97979b'
+
+  selection:
+    text:       '#282a36'
+    background: '#feffff'
+
+  normal:
+    black:   '#282a36'
+    red:     '#ff5c57'
+    green:   '#5af78e'
+    yellow:  '#f3f99d'
+    blue:    '#57c7ff'
+    magenta: '#ff6ac1'
+    cyan:    '#9aedfe'
+    white:   '#f1f1f0'
+
+  bright:
+    black:   '#686868'
+    red:     '#ff5c57'
+    green:   '#5af78e'
+    yellow:  '#f3f99d'
+    blue:    '#57c7ff'
+    magenta: '#ff6ac1'
+    cyan:    '#9aedfe'
+    white:   '#eff0eb'
+
+# font
+
+font:
+  normal:
+    family: Source Code Pro
+    style: Regular
+
+  bold:
+    family: Source Code Pro
+    style: Bold
+
+  italic:
+    family: Source Code Pro
+    style: Italic
+
+  bold_italic:
+    family: Source Code Pro
+    style: Bold Italic
+
+  size: 11
+
+# keybinds
+
+key_bindings:
+  - { key: Return,   mods: Control|Shift, action: SpawnNewInstance }
+
+# transparency
+
+background_opacity: 0.8
