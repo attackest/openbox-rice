@@ -10,4 +10,6 @@
 
 **Window theme**: Cotton
 
+**Wallpaper**: ![Wallpaper](wallpaper.png
+
 ![Screenshot](2020-08-22_16-12.png)
